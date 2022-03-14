@@ -1,5 +1,5 @@
 # MSD-RecSys - NYU Big Data Final Project
-Using Apache PySpark and Alternating Least Squares, we created a recommender system on the Million Song Dataset. Our paper can be found [here](https://github.com/nyu-big-data/final-project-team7/blob/main/FinalReport.pdf)
+Using Apache PySpark and Alternating Least Squares, we created a recommender system on the Million Song Dataset. Our paper can be found [here](https://github.com/Z-Momin/MSD-RecSys/blob/main/FinalReport.pdf).
 
 ## GITHUB ORGANIZATION 
 
